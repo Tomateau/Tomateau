@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [linkedin.com/in/thomas-pierre-alexandre-gervais](linkedin.com/in/thomas-pierre-alexandre-gervais)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
